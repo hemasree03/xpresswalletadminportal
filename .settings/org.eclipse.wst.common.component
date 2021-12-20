@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="WalletAgentAdminPortal">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="ceva_fcmb_wallet_wrapper_06072020v.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva_fcmb_wallet_wrapper_06072020v.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="bean-validator.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/bean-validator.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ceva-dbutils.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva-dbutils.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-3.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/spring-context-3.2.4.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jasperserver-common-ws-2.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jasperserver-common-ws-2.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.1.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-logging-1.1.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-validator-1.4.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-validator-1.4.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="iText-2.1.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/iText-2.1.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-fileupload-1.2.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xom-1.2.5.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/xom-1.2.5.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-api-1.6.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/slf4j-api-1.6.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="shared-asn1-0.9.19.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/shared-asn1-0.9.19.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jsch-0.1.51.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jsch-0.1.51.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ceva-commonbankservicecall_23062020v.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva-commonbankservicecall_23062020v.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tiles-api-2.1.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/tiles-api-2.1.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="zip4j-1.2.7.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/zip4j-1.2.7.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="junit.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/junit.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tiles-servlet-2.1.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/tiles-servlet-2.1.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-jaxrs-1.8.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jackson-jaxrs-1.8.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="dom4j-1.6.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/dom4j-1.6.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ceva-agent-scuessreversal_24072020v.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva-agent-scuessreversal_24072020v.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-collections-3.2.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="poi-3.9-20121203.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/poi-3.9-20121203.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mail.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/mail.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-log4j12-1.6.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/slf4j-log4j12-1.6.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jfreechart-1.0.13.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jfreechart-1.0.13.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="guava-15.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/guava-15.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="asm-3.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/asm-3.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jasperreports-5.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jasperreports-5.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="apache-struts-1.2.4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/apache-struts-1.2.4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="iText-2.1.7.js2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/iText-2.1.7.js2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="opencsv-3.9.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/opencsv-3.9.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jmimemagic-0.1.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jmimemagic-0.1.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ceva-settlement_14082020v.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva-settlement_14082020v.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts2-json-plugin-2.3.16.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/struts2-json-plugin-2.3.16.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-3.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/spring-webmvc-3.2.4.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-3.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/spring-jdbc-3.2.4.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-3.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/spring-expression-3.2.4.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-net-3.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-net-3.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="json-lib-2.4-jdk15.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/json-lib-2.4-jdk15.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="gson-1.4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/gson-1.4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="groovy-all-2.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/groovy-all-2.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="poi-ooxml-3.9-20121203.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/poi-ooxml-3.9-20121203.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-beanutils-1.8.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-beanutils-1.8.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="json-simple-1.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/json-simple-1.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jasperreports-flash-2.0.5.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jasperreports-flash-2.0.5.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="apache-log4j-extras-1.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/apache-log4j-extras-1.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ceva_xpress_paybill_24022021v.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva_xpress_paybill_24022021v.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-3.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/spring-core-3.2.4.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="log4j-1.2.17.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/log4j-1.2.17.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-lang-2.5.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-lang-2.5.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-xc-1.8.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jackson-xc-1.8.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-mapper-asl-1.8.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jackson-mapper-asl-1.8.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ojdbc6.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ojdbc6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-3.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/spring-beans-3.2.4.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ceva_bvn_service_call_15092020v.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva_bvn_service_call_15092020v.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-pool-1.5.4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-pool-1.5.4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ceva-commons-dbutils-1.7.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva-commons-dbutils-1.7.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-validator-4.2.0.Final.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/hibernate-validator-4.2.0.Final.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tiles-compat-2.1.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/tiles-compat-2.1.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tiles-jsp-2.1.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/tiles-jsp-2.1.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ceva-agentbase-2.0v.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva-agentbase-2.0v.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="bcprov-jdk16-146.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/bcprov-jdk16-146.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ceva-agent-wallet_wrapper_23062020v.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva-agent-wallet_wrapper_23062020v.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="opencsv-2.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/opencsv-2.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xwork-core-2.3.16.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/xwork-core-2.3.16.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-core-asl-1.8.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jackson-core-asl-1.8.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-web-3.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/spring-web-3.2.4.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts2-convention-plugin-2.3.16.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/struts2-convention-plugin-2.3.16.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="cglib-nodep-2.2.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/cglib-nodep-2.2.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="itextpdf-5.1.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/itextpdf-5.1.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-dbutils-1.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-dbutils-1.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="poi-ooxml-schemas-3.9-20121203.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/poi-ooxml-schemas-3.9-20121203.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jpos.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jpos.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-lang3-3.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-lang3-3.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="antlr-2.7.7.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/antlr-2.7.7.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts2-core-2.3.16.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/struts2-core-2.3.16.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ezmorph-1.0.6.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ezmorph-1.0.6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tiles-core-2.1.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/tiles-core-2.1.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="qrgen-1.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/qrgen-1.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="zxing-j2se-1.7.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/zxing-j2se-1.7.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aspectjweaver-1.6.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/aspectjweaver-1.6.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-digester-2.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-digester-2.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="asm-commons-3.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/asm-commons-3.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-1.3.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-io-1.3.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javassist-3.12.1.GA.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/javassist-3.12.1.GA.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jta-1.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jta-1.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts2-spring-plugin-2.3.16.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/struts2-spring-plugin-2.3.16.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javax.annotation-3.1.1-b06.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/javax.annotation-3.1.1-b06.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xml-apis-1.3.02.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/xml-apis-1.3.02.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="asm-tree-3.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/asm-tree-3.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="freemarker-2.3.19.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/freemarker-2.3.19.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xmlbeans-2.3.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/xmlbeans-2.3.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-codec-1.4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/commons-codec-1.4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="log4j-1.2.15.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/log4j-1.2.15.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jasperserver-ireport-plugin-2.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/jasperserver-ireport-plugin-2.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ognl-3.0.6.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ognl-3.0.6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="poi-3.0.1-FINAL-20070705.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/poi-3.0.1-FINAL-20070705.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="itext-1.4.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/itext-1.4.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="json-20090211.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/json-20090211.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ceva_agentwalletcore-2.7.3v.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/ceva_agentwalletcore-2.7.3v.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="esapi-2.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/esapi-2.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="zxing-core-1.7.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/zxing-core-1.7.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xercesImpl-2.8.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/xercesImpl-2.8.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="bonecp-0.8.0.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/bonecp-0.8.0.RELEASE.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts-taglib-1.3.5.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/struts-taglib-1.3.5.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tiles-template-3.0.4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/tiles-template-3.0.4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts2-tiles-plugin-2.3.16.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/gitrepository/xpresswebrep/WalletAgentAdminPortal/WebContent/WEB-INF/lib/struts2-tiles-plugin-2.3.16.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                
+        <property name="context-root" value="WalletAgentAdminPortal"/>
+                
+        <property name="java-output-path" value="/WalletAgentAdminPortal/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
